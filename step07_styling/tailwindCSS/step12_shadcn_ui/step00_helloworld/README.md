@@ -3,16 +3,15 @@ To understand why we are using Shadcb UI watch [CSS in 2023 - Tailwind vs MUI vs
 [Read Introduction](https://ui.shadcn.com/docs)
    
     npx create-next-app@latest
-
+   
+    npx shadcn-ui init
+    
     Note: Replace the content array in tailwind.config.js
     
     content: [
-    './src/pages/**/*.{ts,tsx}',
-    './components/**/*.{ts,tsx}',
-    './src/app/**/*.{ts,tsx}',
-	],
-
-    npx shadcn-ui init
+    	'./src/**/*.{ts,tsx}',
+    	'./components/**/*.{ts,tsx}',
+    ],
 
     npx shadcn-ui add card
 

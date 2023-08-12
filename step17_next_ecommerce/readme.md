@@ -1,1 +1,0 @@
-https://vercel.com/blog/introducing-next-js-commerce-2-0

@@ -1,6 +1,12 @@
 To understand why we are using Shadcb UI watch [CSS in 2023 - Tailwind vs MUI vs Bootstrap vs Chakra vs...](https://www.youtube.com/watch?v=CQuTF-bkOgc). Go to time 4 min and see the diagram. We want to to be at the intersection of all three circles. 
 
 [Read Introduction](https://ui.shadcn.com/docs)
+
+[Watch Video](https://www.youtube.com/watch?v=Ix8KjJxbh2E)
+
+[Also read](https://www.dhiwise.com/post/shadcn-ui-an-exciting-journey)
+
+[Watch Video Tutorial](https://eightify.app/summary/web-development/nextjs-13-radix-ui-tailwindcss-tutorial-shadcn-user-interface)
    
     npx create-next-app@latest
    
